@@ -1,0 +1,18 @@
+/* Classe pour un élément actif */
+.active {
+    background-color: #4CAF50; /* vert */
+    color: white;
+    font-weight: bold;
+}
+
+/* Classe pour masquer un élément */
+.hidden {
+    display: none;
+}
+
+/* Classe pour un élément ouvert / développé */
+.open {
+    border: 2px solid #2196F3; /* bleu */
+    padding: 10px;
+    background-color: #e3f2fd;
+}
