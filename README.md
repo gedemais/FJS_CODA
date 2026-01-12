@@ -24,6 +24,7 @@
 
 
 ## JS ARENA
-[Schéma](https://drive.google.com/file/d/1GcXf2Ml0_uKpHcjCbBKOWER-gLb4OdYr/view?usp=sharing)
+[Schéma](https://drive.google.com/drive/folders/1KfhZ_VuVL1Z0TYhKa27LBUl44dIKpIH9?usp=sharing)
+
 
 
