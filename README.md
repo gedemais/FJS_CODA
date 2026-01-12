@@ -26,5 +26,6 @@
 ## JS ARENA
 [Schéma](https://drive.google.com/drive/folders/1KfhZ_VuVL1Z0TYhKa27LBUl44dIKpIH9?usp=sharing)
 
+[LPC Spritesheet Generator](https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator/#sex=male&body=Body_color_light&head=Human_male_light&expression=Neutral_light)
 
 
