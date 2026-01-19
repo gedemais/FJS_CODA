@@ -5,6 +5,8 @@
 
 [La manipulation du DOM](https://docs.google.com/presentation/d/1Ipo-Stz1hDy36TZn3jp4BG8clFubjxgZliU4kxhA1kY/edit?usp=sharing)
 
+[La programmation événementielle avec JavaScript](https://docs.google.com/presentation/d/1JVc9PeKua813g5r7mYDJaJi_qidmpQoZ5p8X04hb-Pw/edit?usp=sharing)
+
 ## Travaux Pratiques - Sujets
 [Sujet - TP1](https://drive.google.com/drive/folders/14-EEfo5hna1gwCd72kR9HYGFvb9-umk7?usp=sharing)
 
@@ -36,6 +38,7 @@
 [Schéma](https://drive.google.com/drive/folders/1KfhZ_VuVL1Z0TYhKa27LBUl44dIKpIH9?usp=sharing)
 
 [LPC Spritesheet Generator](https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator/#sex=male&body=Body_color_light&head=Human_male_light&expression=Neutral_light)
+
 
 
 
