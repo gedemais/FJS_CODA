@@ -40,6 +40,7 @@
 [LPC Spritesheet Generator](https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator/#sex=male&body=Body_color_light&head=Human_male_light&expression=Neutral_light)
 
 
+[Tutorial - Canvas avec JS](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 
 
 
