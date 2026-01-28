@@ -7,6 +7,8 @@
 
 [La programmation événementielle avec JavaScript](https://docs.google.com/presentation/d/1JVc9PeKua813g5r7mYDJaJi_qidmpQoZ5p8X04hb-Pw/edit?usp=sharing)
 
+[Architecture MVC](https://docs.google.com/presentation/d/1OrvblpBE5ecgY4-SZ2YVo1pysiIQTlOoBVWHT3-4lIw/edit?usp=sharing)
+
 ## Travaux Pratiques - Sujets
 [Sujet - TP1](https://drive.google.com/drive/folders/14-EEfo5hna1gwCd72kR9HYGFvb9-umk7?usp=sharing)
 
@@ -44,6 +46,7 @@
 
 
 [Tutorial - Canvas avec JS](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+
 
 
 
