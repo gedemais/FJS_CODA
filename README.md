@@ -9,6 +9,8 @@
 
 [Architecture MVC](https://docs.google.com/presentation/d/1OrvblpBE5ecgY4-SZ2YVo1pysiIQTlOoBVWHT3-4lIw/edit?usp=sharing)
 
+[Requêtes asynchrones](https://docs.google.com/presentation/d/1L8fYO80jgiEVQqW57LjwmtIdsEGpnXA6BFyH72HjLA8/edit?usp=sharing)
+
 ## Travaux Pratiques - Sujets
 [Sujet - TP1](https://drive.google.com/drive/folders/14-EEfo5hna1gwCd72kR9HYGFvb9-umk7?usp=sharing)
 
@@ -28,6 +30,8 @@
 
 [Sujet - TP9](https://drive.google.com/drive/folders/1gLdjpXmvbqbMVChCyPCJXiCwkGbT95C1?usp=drive_link)
 
+[Sujet - TP10](https://docs.google.com/document/d/19KvKz7PNx7TZKy9CGemjkfIz0QTtXQnIAFEQL5VWm04/edit?usp=sharing)
+
 ## Travaux Pratiques - Corrections
 [Correction - TP1](https://drive.google.com/drive/folders/1Il6IWiOM_9MJNG08gzpDXc3EODkMkYqc?usp=sharing)
 
@@ -46,6 +50,7 @@
 
 
 [Tutorial - Canvas avec JS](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+
 
 
 
