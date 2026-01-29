@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Game Stats Dashboard</title>
+  <link rel="stylesheet" href="dashboard.css" />
+</head>
+<body>
+
+<header>
+<h1>🎮 Game Dashboard</h1>
+
+<div class="server-form">
+    <label for="serverInput">Server IP:PORT:</label>
+    <input type="text" id="serverInput" value="http://localhost:8000" />
+    <button id="connectBtn">Connect</button>
+</div>
+</header>
+
+  <main>
+    <section class="panel">
+      <h2>Player stats</h2>
+      <select id="playerSelect">
+        <option value="">-- Select a player --</option>
+      </select>
+      <div id="playerStats" class="stats">
+        <p>Select a player to see stats</p>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Global Ranking</h2>
+      <ul id="rankingList" class="ranking"></ul>
+    </section>
+  </main>
+
+  <script type="module" src="dashboard.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Battle Royale JS — Portail</title>
+    <link rel="stylesheet" href="portal.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Battle Royale JS</h1>
+
+    <form id="portalForm">
+        <label>
+            Pseudo
+            <input type="text" id="pseudo" required minlength="3">
+        </label>
+
+        <label>
+            Serveur (IP:PORT)
+            <input type="text" id="server" value="localhost:8000" required>
+        </label>
+
+        <div class="skins">
+            <p>Choisis ton personnage :</p>
+        </div>
+
+        <button type="submit">Connexion</button>
+    </form>
+
+    <p id="error"></p>
+</div>
+
+<script src="./portal.js"></script>
+</body>
+</html>

@@ -72,3 +72,47 @@ async function afficherDonnees() {
 // Appel de la fonction
 afficherDonnees();
 console.log("Script chargé - prêt à faire des requêtes async !");
+
+// Requete GET
+fetch("https://api.exemple.com/data")
+    .then(response => response.json())
+    .then(data => console.log(data));
+
+
+// Requete POST
+fetch("https://api.exemple.com/data", {
+    method: "POST",
+    headers: {
+        "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+        nom: "Alice",
+        age: 30
+    })
+});
+
+
+
+const data = await response.json();
+
+
+body: JSON.stringify({
+    nom: "Alice",
+    age: 30
+})
+
+
+async function afficherDonneesAsync() {
+    try {
+        fetch("https://pokeapi.co/api/v2/pokemon/pikachu")
+            .then(response => response.json())
+            .then(data => {
+                console.log(data.name);
+                console.log(data.sprites.front_default);
+            });
+    } catch (error) {
+        console.error("Erreur lors du chargement :", error);
+    }
+}
+
+afficherDonneesAsync();

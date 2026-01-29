@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>JS Arena – Dashboard</title>
+    <link rel="stylesheet" href="dashboard.css">
+</head>
+<body>
+
+<h1> JS Arena – Dashboard</h1>
+
+<section class="server">
+    <h2>Connexion serveur</h2>
+    <input id="serverInput" placeholder="http://localhost:8000" />
+    <button id="connectBtn">Connecter</button>
+</section>
+
+<section class="stats">
+    <h2>Stats joueur</h2>
+    <select id="playerSelect">
+        <option value="">-- Sélectionner un joueur --</option>
+    </select>
+    <div id="playerStats">Aucun joueur sélectionné</div>
+</section>
+
+<section class="ranking">
+    <h2>Classement général</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Position</th>
+                <th>Joueur</th>
+                <th>Parties</th>
+                <th>Kills</th>
+                <th>Morts</th>
+                <th>K/D</th>
+            </tr>
+        </thead>
+        <tbody id="rankingTable"></tbody>
+    </table>
+</section>
+
+<script src="dashboard.js"></script>
+</body>
+</html>
